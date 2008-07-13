@@ -1,0 +1,9 @@
+== Country Code Select
+
+A simple country code select helper. Works exactly the same as country_select but uses country codes instead.
+
+  country_code_select(:user, :country, [[ 'US', 'United States' ], [ 'CA', 'Canada' ]])
+
+== Copyright/License
+
+Copyright (c) 2008 Russ Smith, released under the MIT license.
