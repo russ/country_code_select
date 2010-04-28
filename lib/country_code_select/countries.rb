@@ -34,7 +34,7 @@ module CountryCodeSelect
 		["St.Vincent & Grenadines", "VC"], ["Sudan", "SD"], ["Suriname", "SR"], ["Svalbard & Jan Mayen Is", "SJ"], ["Swaziland", "SZ"], ["Sweden", "SE"],  
 		["Switzerland", "CH"], ["Syria", "SY"], ["Tadjikistan", "TJ"], ["Taiwan", "TW"], ["Tanzania", "TZ"], ["Thailand", "TH"], ["Togo", "TG"],  
 		["Tokelau", "TK"], ["Tonga", "TO"], ["Trinidad & Tobago", "TT"], ["Tunisia", "TN"], ["Turkey", "TR"], ["Turkmenistan", "TM"],  
-		["Turks & Caicos Islands", "TC"], ["Tuvalu", "TV"], ["Uganda", "UG"], ["Ukraine", "UA"], ["United Arab Emirates", "AE"], ["United Kingdom", "UK"], 
+		["Turks & Caicos Islands", "TC"], ["Tuvalu", "TV"], ["Uganda", "UG"], ["Ukraine", "UA"], ["United Arab Emirates", "AE"], ["United Kingdom", "GB"], 
 		["United States", "US"], ["Uruguay", "UY"], ["US Minor outlying Isl.", "UM"], ["Uzbekistan", "UZ"], ["Vanuatu", "VU"], ["Vatican City State", "VA"],  
 		["Venezuela", "VE"], ["Vietnam", "VN"], ["Virgin Islands (British)", "VG"], ["Virgin Islands (US)", "VI"], ["Wallis & Futuna Islands", "WF"],  
 		["Western Sahara", "EH"], ["Yemen", "YE"], ["Yugoslavia", "YU"], ["Zaire", "ZR"], ["Zambia", "ZM"], ["Zimbabwe", "ZW"]]
