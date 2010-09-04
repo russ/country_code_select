@@ -17,7 +17,7 @@ module CountryCodeSelect
 			end
 
 			countries = countries + options_for_select(COUNTRIES, selected)
-   		content_tag(:select, countries, options.merge(:id => "#{@object_name}_#{@method_name}", :name => "#{@object_name}[#{@method_name}]"))
+   		content_tag(:select, countries, options.merge(:id => "#{@object_name}_#{@method_name}", :name => "#{@object_name}[#{@method_name}]"),false)
 		end
 	end
 end
