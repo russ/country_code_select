@@ -14,6 +14,9 @@ module CountryCodeSelect
 			if priority_countries
 				countries += options_for_select(priority_countries, selected)
 				countries += "<option value=\"\" disabled=\"disabled\">-------------</option>\n"
+      elsif options[:include_blank]
+        countries += "<option value=\"\">" + options[:include_blank] + "</options>\n"
+				countries += "<option value=\"\" disabled=\"disabled\">-------------</option>\n"
 			end
 
 			countries = countries + options_for_select(COUNTRIES, selected)
