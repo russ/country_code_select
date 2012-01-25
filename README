@@ -2,7 +2,12 @@
 
 A simple country code select helper. Works exactly the same as country_select but uses country codes instead.
 
-  country_code_select(:user, :country, [[ 'US', 'United States' ], [ 'CA', 'Canada' ]])
+  country_code_select(:user, :country, [[ 'United States', 'US' ], [ 'Canada', 'CA' ]])
+
+== Requirements
+
+Rails 3+
+Ruby 1.9.2+
 
 == Copyright/License
 

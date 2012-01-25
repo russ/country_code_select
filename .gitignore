@@ -1,2 +1,5 @@
-coverage
-rdoc
+*.gem
+.bundle
+.DS_Store
+Gemfile.lock
+pkg/*

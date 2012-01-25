@@ -10,7 +10,7 @@ module CountryCodeSelect
 		def country_code_select(priority_countries, options)
 			selected = object.send(@method_name)
 
-			countries = ''
+			countries = ""
 			if priority_countries
 				countries += options_for_select(priority_countries, selected)
 				countries += "<option value=\"\" disabled=\"disabled\">-------------</option>\n"
@@ -20,11 +20,7 @@ module CountryCodeSelect
 			end
 
 			countries = countries + options_for_select(COUNTRIES, selected)
-      if Rails::VERSION::STRING.to_f < 3
-        content_tag(:select, countries, options.merge(:id => "#{@object_name}_#{@method_name}", :name => "#{@object_name}[#{@method_name}]"))
-      else
-        content_tag(:select, countries, options.merge(:id => "#{@object_name}_#{@method_name}", :name => "#{@object_name}[#{@method_name}]"), false)
-      end
+      content_tag(:select, countries, options.merge(id: "#{@object_name}_#{@method_name}", :name => "#{@object_name}[#{@method_name}]"), false)
 		end
 	end
 end
