@@ -29,7 +29,7 @@ module CountryCodeSelect
 		["Polynesia (Fr.)", "PF"], ["Portugal", "PT"], ["Puerto Rico (US)", "PR"], ["Qatar", "QA"], ["Reunion (Fr.)", "RE"], ["Romania", "RO"],  
 		["Russian Federation", "RU"], ["Rwanda", "RW"], ["Saint Lucia", "LC"], ["Samoa", "WS"], ["San Marino", "SM"], ["Saudi Arabia", "SA"],  
 		["Senegal", "SN"], ["Seychelles", "SC"], ["Sierra Leone", "SL"], ["Singapore", "SG"], ["Slovak Republic", "SK"], ["Slovenia", "SI"],  
-		["Solomon Islands", "SB"], ["Somalia", "SO"], ["South Africa", "ZA"], ["Soviet Union", "SU"], ["Spain", "ES"], ["Sri Lanka", "LK"],  
+		["Solomon Islands", "SB"], ["Somalia", "SO"], ["South Africa", "ZA"], ["Spain", "ES"], ["Sri Lanka", "LK"],  
 		["St. Helena", "SH"], ["St. Pierre & Miquelon", "PM"], ["St. Tome and Principe", "ST"], ["St.Kitts Nevis Anguilla", "KN"],  
 		["St.Vincent & Grenadines", "VC"], ["Sudan", "SD"], ["Suriname", "SR"], ["Svalbard & Jan Mayen Is", "SJ"], ["Swaziland", "SZ"], ["Sweden", "SE"],  
 		["Switzerland", "CH"], ["Syria", "SY"], ["Tadjikistan", "TJ"], ["Taiwan", "TW"], ["Tanzania", "TZ"], ["Thailand", "TH"], ["Togo", "TG"],  
