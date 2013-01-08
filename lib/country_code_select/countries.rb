@@ -2,7 +2,7 @@ module CountryCodeSelect
 	module Countries
 		COUNTRIES =  [["Afghanistan", "AF"], ["Albania", "AL"], ["Algeria", "DZ"], ["American Samoa", "AS"], ["Andorra", "AD"], ["Angola", "AO"],  
 		["Anguilla", "AI"], ["Antarctica", "AQ"], ["Antigua and Barbuda", "AG"], ["Argentina", "AR"], ["Armenia", "AM"], ["Aruba", "AW"],  
-		["Australia", "AU"], ["Austria", "AT"], ["Azerbaidjan", "AZ"], ["Bahamas", "BS"], ["Bahrain", "BH"], ["Banglades", "BD"], ["Barbados", "BB"], 
+		["Australia", "AU"], ["Austria", "AT"], ["Azerbaidjan", "AZ"], ["Bahamas", "BS"], ["Bahrain", "BH"], ["Bangladesh", "BD"], ["Barbados", "BB"], 
 		["Belarus", "BY"], ["Belgium", "BE"], ["Belize", "BZ"], ["Benin", "BJ"], ["Bermuda", "BM"], ["Bolivia", "BO"], ["Bosnia-Herzegovina", "BA"], 
 		["Botswana", "BW"], ["Bouvet Island", "BV"], ["Brazil", "BR"], ["British Indian O. Terr.", "IO"], ["Brunei Darussalam", "BN"], ["Bulgaria", "BG"], 
 		["Burkina Faso", "BF"], ["Burundi", "BI"], ["Buthan", "BT"], ["Cambodia", "KH"], ["Cameroon", "CM"], ["Canada", "CA"], ["Cape Verde", "CV"], 
@@ -29,7 +29,7 @@ module CountryCodeSelect
 		["Polynesia (Fr.)", "PF"], ["Portugal", "PT"], ["Puerto Rico (US)", "PR"], ["Qatar", "QA"], ["Reunion (Fr.)", "RE"], ["Romania", "RO"],  
 		["Russian Federation", "RU"], ["Rwanda", "RW"], ["Saint Lucia", "LC"], ["Samoa", "WS"], ["San Marino", "SM"], ["Saudi Arabia", "SA"],  
 		["Senegal", "SN"], ["Seychelles", "SC"], ["Sierra Leone", "SL"], ["Singapore", "SG"], ["Slovak Republic", "SK"], ["Slovenia", "SI"],  
-		["Solomon Islands", "SB"], ["Somalia", "SO"], ["South Africa", "ZA"], ["Soviet Union", "SU"], ["Spain", "ES"], ["Sri Lanka", "LK"],  
+		["Solomon Islands", "SB"], ["Somalia", "SO"], ["South Africa", "ZA"], ["Spain", "ES"], ["Sri Lanka", "LK"],  
 		["St. Helena", "SH"], ["St. Pierre & Miquelon", "PM"], ["St. Tome and Principe", "ST"], ["St.Kitts Nevis Anguilla", "KN"],  
 		["St.Vincent & Grenadines", "VC"], ["Sudan", "SD"], ["Suriname", "SR"], ["Svalbard & Jan Mayen Is", "SJ"], ["Swaziland", "SZ"], ["Sweden", "SE"],  
 		["Switzerland", "CH"], ["Syria", "SY"], ["Tadjikistan", "TJ"], ["Taiwan", "TW"], ["Tanzania", "TZ"], ["Thailand", "TH"], ["Togo", "TG"],  
