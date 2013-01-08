@@ -2,7 +2,7 @@ module CountryCodeSelect
 	module Countries
 		COUNTRIES =  [["Afghanistan", "AF"], ["Albania", "AL"], ["Algeria", "DZ"], ["American Samoa", "AS"], ["Andorra", "AD"], ["Angola", "AO"],  
 		["Anguilla", "AI"], ["Antarctica", "AQ"], ["Antigua and Barbuda", "AG"], ["Argentina", "AR"], ["Armenia", "AM"], ["Aruba", "AW"],  
-		["Australia", "AU"], ["Austria", "AT"], ["Azerbaidjan", "AZ"], ["Bahamas", "BS"], ["Bahrain", "BH"], ["Banglades", "BD"], ["Barbados", "BB"], 
+		["Australia", "AU"], ["Austria", "AT"], ["Azerbaidjan", "AZ"], ["Bahamas", "BS"], ["Bahrain", "BH"], ["Bangladesh", "BD"], ["Barbados", "BB"], 
 		["Belarus", "BY"], ["Belgium", "BE"], ["Belize", "BZ"], ["Benin", "BJ"], ["Bermuda", "BM"], ["Bolivia", "BO"], ["Bosnia-Herzegovina", "BA"], 
 		["Botswana", "BW"], ["Bouvet Island", "BV"], ["Brazil", "BR"], ["British Indian O. Terr.", "IO"], ["Brunei Darussalam", "BN"], ["Bulgaria", "BG"], 
 		["Burkina Faso", "BF"], ["Burundi", "BI"], ["Buthan", "BT"], ["Cambodia", "KH"], ["Cameroon", "CM"], ["Canada", "CA"], ["Cape Verde", "CV"], 
