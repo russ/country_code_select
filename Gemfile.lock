@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    country_code_select (1.0.0)
+    country_code_select (1.0.1)
       activesupport (>= 3.0)
 
 GEM
