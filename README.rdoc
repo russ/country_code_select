@@ -1,3 +1,6 @@
+== Maintainers Wanted
+This project is looking for maintainers. I don't use Ruby primarily anymore and don't interact with this code much.
+
 == Country Code Select
 
 A simple country code select helper. Works exactly the same as country_select but uses country codes instead.
